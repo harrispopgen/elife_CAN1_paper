@@ -1,6 +1,6 @@
 This repository contains script for [Jiang et al 2021. eLife](https://elifesciences.org/articles/68285):A modified fluctuation assay reveals a natural mutator phenotype that drives mutation spectrum variation within Saccharomyces cerevisiae
 
-# fig 1: analyzing mutation spectra from polymorphism data  
+## fig 1: analyzing mutation spectra from polymorphism data  
 
 - need to align outgroup (S.para) to S.cer first
 see directory: `Spar_preprocess/`
@@ -27,21 +27,21 @@ see directory: `Spar_preprocess/`
 `script/plot_fig1_and_suppl.R`
 `script/plot_fig1_PCA_Scer_AC4.R`
 
-# fig 3: fluctuation assay: fluc/
+## fig 3: fluctuation assay: fluc/
 `plot_mut_rate_fig3.R`
 
-# fig 4: mutation spectra from de novo mutations: CAN1_mut_sequencing/ 
+## fig 4: mutation spectra from de novo mutations: CAN1_mut_sequencing/ 
 
 check the readme file in that directory. first call mutations from raw illumina sequencing reads, identify MNMs, and get the final set of single nucleotide mutations
 
 - script to plot fig 4
 `CAN1_mut_sequencing/script/fig4_from_10_21_final.R`
 
-# fig 5: 
+## fig 5: C to A ratio enrichment
 
 check the directory: `dipCBS1782/`
 refer to the README file in that directory. 
 
-# fig 6: mutation rate estimates from strains transformed with different OGG1 plasmids
+## fig 6: mutation rate estimates from strains transformed with different OGG1 plasmids
 
 `OGG1/plot_mut_rate.R`
