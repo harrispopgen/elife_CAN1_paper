@@ -1,6 +1,6 @@
 This repository contains script for [Jiang et al 2021. eLife](https://elifesciences.org/articles/68285):A modified fluctuation assay reveals a natural mutator phenotype that drives mutation spectrum variation within Saccharomyces cerevisiae
 
-### fig 1: analyzing mutation spectra from polymorphism data  
+# fig 1: analyzing mutation spectra from polymorphism data  
 
 
 ## need to align outgroup (S.para) to S.cer first
