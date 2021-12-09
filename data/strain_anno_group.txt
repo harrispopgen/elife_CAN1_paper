@@ -1,0 +1,1012 @@
+ID,Ecol,Geo,Clades,Ploidy,Euploidy,Zygosity,group
+BFC,Fermentation,Europe,1. Wine/European ,2,euploid,homozygous,1
+AGL,Wine,Europe,1. Wine/European ,1,euploid,homozygous,1
+ABE,Human clinical,NA,1. Wine/European ,1,euploid,homozygous,1
+SACE_YAM,Human clinical,NA,1. Wine/European ,2,euploid,homozygous,1
+BKI,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+ABR,Soil,Europe,1. Wine/European ,1,euploid,homozygous,1
+ABQ,Soil,Europe,1. Wine/European ,1,euploid,homozygous,1
+BNV,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BPB,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BPT,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BQM,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BFK,Tree,Europe,1. Wine/European ,2,euploid,homozygous,1
+BQS,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BQE,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+AIN,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BQR,Water,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLT,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+AIF,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+AQR,Wine,Europe,1. Wine/European ,2,aneu,heterozygous,1
+BPF,Fruit,NA,1. Wine/European ,2,euploid,heterozygous,1
+BLR,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BNL,Soil,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BPK,Water,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BKQ,Unknown,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BPG,Unknown,Africa,1. Wine/European ,2,aneu,homozygous,1
+BPH,Unknown,Africa,1. Wine/European ,2,aneu,homozygous,1
+BQT,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+APT,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+BID,Bakery,Europe,1. Wine/European ,2,euploid,homozygous,1
+AGI,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BHV,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BNE,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BLA,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKT,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BIA,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKL,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BIB,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKK,Unknown,Europe,1. Wine/European ,2,euploid,homozygous,1
+BLQ,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+SACE_YBY,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+SACE_YDF,Human clinical,NA,1. Wine/European ,2,euploid,homozygous,1
+SACE_YDO,Distillery,North_America,1. Wine/European ,2,euploid,homozygous,1
+AHG,Fruit,NA,1. Wine/European ,1,euploid,homozygous,1
+AII,Palm wine,Africa,1. Wine/European ,2,aneu,heterozygous,1
+AHD,Wine,NA,1. Wine/European ,1,aneu,homozygous,1
+AGF,Wine,NA,1. Wine/European ,1,euploid,homozygous,1
+AHE,Wine,NA,1. Wine/European ,1,aneu,homozygous,1
+AQQ,Wine,Europe,1. Wine/European ,2,aneu,heterozygous,1
+ASG,Human clinical,Europe,1. Wine/European ,2,aneu,homozygous,1
+ASD,Beer,NA,1. Wine/European ,2,euploid,heterozygous,1
+ASE,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+AIQ,Fermentation,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLG,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLI,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+ACP,Wine,Europe,1. Wine/European (subclade 1),1,euploid,homozygous,1
+BQA,Wine,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+AMA,Fruit,Europe,1. Wine/European (subclade 1),3,euploid,heterozygous,1
+ALQ,Tree,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+BBI,Flower,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+ALT,Flower,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+BBK,Flower,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+BFB,Nature,Europe,1. Wine/European (subclade 1),2,euploid,heterozygous,1
+BFD,Fruit,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+ALS,Flower,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+BBH,Flower,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+BPQ,Wine,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+BQN,Wine,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+CBI,Wine,old_Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+CCM,Tree,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+BEP,Unknown,Europe,1. Wine/European (subclade 1),2,euploid,heterozygous,1
+BRC,Wine,Europe,1. Wine/European (subclade 1),2,euploid,homozygous,1
+CGT,Wine,Middle_east,1. Wine/European (subclade 1),2,euploid,homozygous,1
+ALL,Water,Europe,1. Wine/European ,2,euploid,heterozygous,1
+ALM,Water,Europe,1. Wine/European ,2,aneu,heterozygous,1
+AVH,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+AHR,Human clinical,Europe,1. Wine/European ,1,euploid,homozygous,1
+SACE_YAD,Human clinical,Europe,1. Wine/European ,2,euploid,homozygous,1
+AGH,Wine,Europe,1. Wine/European ,1,euploid,homozygous,1
+BTH,Tree,Europe,1. Wine/European ,2,euploid,homozygous,1
+ATH,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BFQ,Cider,Europe,1. Wine/European ,2,euploid,homozygous,1
+CIA,Industrial,Europe,1. Wine/European ,2,euploid,homozygous,1
+BFR,Cider,Europe,1. Wine/European ,2,euploid,homozygous,1
+CIB,Industrial,Europe,1. Wine/European ,2,euploid,homozygous,1
+CBG,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+ACF,Distillery,Europe,1. Wine/European ,1,euploid,homozygous,1
+SACE_YCD,Cider,NA,1. Wine/European ,2,aneu,homozygous,1
+APS,Wine,Europe,1. Wine/European ,2,aneu,heterozygous,1
+ARC,Wine,Europe,1. Wine/European ,2,aneu,heterozygous,1
+BER,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BES,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+ARK,Fruit,NA,1. Wine/European ,2,aneu,heterozygous,1
+ATA,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+ARQ,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+SACE_YBN,Fruit,North_America,1. Wine/European ,2,euploid,homozygous,1
+APV,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CFV,Fruit,NA,1. Wine/European ,2,aneu,homozygous,1
+SACE_YDC,Beer,Africa,1. Wine/European ,2,euploid,homozygous,1
+SACE_GAP,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+AAI,Distillery,Europe,1. Wine/European ,1,euploid,homozygous,1
+ARV,Distillery,Europe,1. Wine/European ,2,aneu,homozygous,1
+BHC,Cider,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BHF,Cider,Europe,1. Wine/European ,2,euploid,homozygous,1
+BLB,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BPP,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+BTN,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+BTL,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+CRH,Wine,South_America,1. Wine/European ,2,euploid,heterozygous,1
+SACE_YAA,Distillery,NA,1. Wine/European ,2,euploid,homozygous,1
+BSP,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+AHT,Fermentation,Oceania,1. Wine/European ,1,euploid,homozygous,1
+ATN,Fruit,Oceania,1. Wine/European ,2,euploid,homozygous,1
+SACE_YBO,Fruit,Oceania,1. Wine/European ,2,euploid,homozygous,1
+BNK,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BNR,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BQH,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BEQ,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+AIK,Nature,Africa,1. Wine/European ,2,euploid,heterozygous,1
+CAH,Wine,North_America,1. Wine/European ,2,aneu,heterozygous,1
+CBA,Wine,North_America,1. Wine/European ,2,euploid,heterozygous,1
+CAI,Wine,North_America,1. Wine/European ,2,euploid,heterozygous,1
+CAK,Wine,North_America,1. Wine/European ,2,euploid,heterozygous,1
+CAL,Wine,North_America,1. Wine/European ,2,euploid,heterozygous,1
+BSL,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+SACE_YBX,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BSE,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+AAA,Wine,North_America,1. Wine/European ,1,euploid,homozygous,1
+CFS,Wine,North_America,1. Wine/European ,4,aneu,homozygous,1
+BEV,Water,Europe,1. Wine/European ,2,euploid,homozygous,1
+BET,Water,Europe,1. Wine/European ,2,euploid,homozygous,1
+BST,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+ASS,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BSD,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+ATM,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+CQT,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+BSA,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+ADR,Wine,Europe,1. Wine/European ,1,euploid,homozygous,1
+BSC,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+CFQ,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+CFR,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+BSB,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+ADC,Wine,Europe,1. Wine/European ,1,euploid,homozygous,1
+SACE_YCP,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+SACE_YCQ,Cider,NA,1. Wine/European ,2,euploid,homozygous,1
+BII,Wine,Australia,1. Wine/European ,2,euploid,homozygous,1
+BIS,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BIG,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+AIR,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+AIT,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BNF,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BAR,Tree,Europe,1. Wine/European ,2,euploid,homozygous,1
+BAS,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BAT,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BRD,Unknown,Europe,1. Wine/European ,2,euploid,heterozygous,1
+AGV,Wine,South_America,1. Wine/European ,1,euploid,homozygous,1
+BQI,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+AGA,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+AGS,Wine,Europe,1. Wine/European ,1,euploid,homozygous,1
+BPC,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKE,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BLH,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CRG,Wine,South_America,1. Wine/European ,2,euploid,heterozygous,1
+AIL,Nature,Africa,1. Wine/European ,2,euploid,heterozygous,1
+AMS,Probiotic,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLE,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+ADB,Wine,Asia,1. Wine/European ,1,aneu,homozygous,1
+BQB,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+AMR,Soil,Asia,1. Wine/European ,2,euploid,homozygous,1
+ABT,Nature,Europe,1. Wine/European ,1,euploid,homozygous,1
+BRA,Nature,Europe,1. Wine/European ,2,euploid,homozygous,1
+BIC,Wine,Africa,1. Wine/European ,2,euploid,homozygous,1
+BLK,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BBV,Wine,Europe,1. Wine/European ,2,aneu,heterozygous,1
+BVK,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CFE,Beer,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BRF,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BSM,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BSN,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+CPE,Unknown,Europe,1. Wine/European ,2,aneu,homozygous,1
+BLM,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BQC,Distillery,Europe,1. Wine/European ,2,euploid,homozygous,1
+BRE,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BPV,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CRC,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BHN,Fermentation,Asia,1. Wine/European ,2,euploid,homozygous,1
+BBB,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BAV,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CAE,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+CAF,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+CRL,Wine,North_America,1. Wine/European ,2,euploid,homozygous,1
+BBA,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+SACE_YAY,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+ADI,Human clinical,Europe,1. Wine/European (subclade 2),1,euploid,homozygous,1
+SACE_YBA,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+SACE_YAZ,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+BMI,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+SACE_YBE,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+BMK,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+SACE_YBF,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+BMH,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+ADD,Soil,North_America,1. Wine/European (subclade 2),1,euploid,homozygous,1
+SACE_YBB,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+SACE_YBG,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+SACE_YBH,Human clinical,Europe,1. Wine/European (subclade 2),2,euploid,homozygous,1
+CDS,Fruit,Europe,1. Wine/European ,2,euploid,homozygous,1
+BIM,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BIN,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKA,Fruit,Europe,1. Wine/European ,2,euploid,homozygous,1
+BQQ,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+ADS,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BNM,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+ACR,Wine,Europe,1. Wine/European ,1,euploid,homozygous,1
+BIH,Wine,Australia,1. Wine/European ,2,euploid,heterozygous,1
+BKC,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLS,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BKD,Soil,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BNP,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BKN,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BNQ,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CBH,Wine,Middle_east,1. Wine/European ,2,euploid,heterozygous,1
+BKH,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BPM,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BKP,Wine,Europe,1. Wine/European ,2,aneu,heterozygous,1
+CRA,Wine,Europe,1. Wine/European ,2,aneu,heterozygous,1
+CRB,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CHC,Wine,Middle_east,1. Wine/European ,2,euploid,heterozygous,1
+CGS,Wine,Middle_east,1. Wine/European ,2,euploid,homozygous,1
+CHB,Wine,Middle_east,1. Wine/European ,2,euploid,heterozygous,1
+CHD,Wine,Middle_east,1. Wine/European ,2,euploid,heterozygous,1
+CGV,Wine,Middle_east,1. Wine/European ,2,euploid,heterozygous,1
+CHA,Wine,Middle_east,1. Wine/European ,2,euploid,homozygous,1
+CHE,Wine,Middle_east,1. Wine/European ,2,euploid,heterozygous,1
+AHI,Wine,Europe,1. Wine/European ,1,aneu,homozygous,1
+BKM,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BIF,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKG,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BKF,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLL,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+ARL,Flower,Asia,1. Wine/European ,2,aneu,heterozygous,1
+CKI,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKL,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKH,Industrial,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKD,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKE,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CIS,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+BMN,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CIT,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKP,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKQ,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKB,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKC,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CIQ,Human clinical,Europe,1. Wine/European (subclade 3),2,aneu,heterozygous,1
+CIM,Human clinical,Europe,1. Wine/European (subclade 3),2,aneu,heterozygous,1
+CIN,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CIR,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKF,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKG,Fruit,Asia,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKM,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CIP,Human clinical,Europe,1. Wine/European (subclade 3),2,aneu,heterozygous,1
+BCA,Human clinical,North_America,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+AMT,Probiotic,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CIV,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+CKT,Human clinical,Europe,1. Wine/European (subclade 3),2,euploid,heterozygous,1
+BIL,Wine,Australia,1. Wine/European ,2,euploid,homozygous,1
+ABS,Nature,NA,1. Wine/European ,1,euploid,homozygous,1
+BIP,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+BIQ,Wine,Europe,1. Wine/European ,1,aneu,homozygous,1
+BNI,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BLV,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BQG,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CRD,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CRI,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+BVM,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CQV,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CRK,Wine,Africa,1. Wine/European ,2,euploid,homozygous,1
+BLF,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+CEA,Soil,Europe,1. Wine/European ,1,euploid,homozygous,1
+CEB,Soil,Europe,1. Wine/European ,1,euploid,homozygous,1
+BNT,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BLD,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKR,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CEC,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BNH,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BLC,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+CEE,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BNN,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+CED,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+BKS,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLP,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BLN,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+CDV,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+CEF,Soil,Europe,1. Wine/European ,2,euploid,homozygous,1
+ANQ,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+AVK,Wine,South_America,1. Wine/European ,2,euploid,homozygous,1
+BIK,Wine,Australia,1. Wine/European ,2,euploid,homozygous,1
+CLH,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+AHN,Wine,Africa,1. Wine/European ,1,euploid,homozygous,1
+BSG,Wine,Africa,1. Wine/European ,2,euploid,homozygous,1
+SACE_YCA,Wine,Africa,1. Wine/European ,2,euploid,homozygous,1
+ACT,Wine,Africa,1. Wine/European ,1,aneu,homozygous,1
+ACV,Wine,Africa,1. Wine/European ,1,aneu,homozygous,1
+AKP,Industrial,South_America,1. Wine/European ,2,euploid,homozygous,1
+AKV,Nature,South_America,1. Wine/European ,2,euploid,homozygous,1
+ALE,Insect,South_America,1. Wine/European ,2,euploid,homozygous,1
+BQP,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BRB,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+BIT,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+AQB,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+BRH,Wine,Europe,1. Wine/European ,2,euploid,homozygous,1
+ABP,Fruit,Europe,1. Wine/European ,1,euploid,homozygous,1
+BIR,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+CPF,Unknown,Europe,1. Wine/European ,2,aneu,heterozygous,1
+BNG,Wine,Europe,1. Wine/European ,3,euploid,heterozygous,1
+AIM,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+CFB,Wine,Europe,1. Wine/European ,2,aneu,homozygous,1
+CHF,Wine,Middle_east,1. Wine/European ,2,euploid,heterozygous,1
+BHB,Bakery,Australia,1. Wine/European ,2,euploid,heterozygous,1
+AAK,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+AHP,Wine,Europe,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+AET,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+AEK,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+AQE,Wine,Europe,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+AQP,Wine,Europe,1. Wine/European (subclade 4),2,aneu,heterozygous,1
+ASA,Wine,Europe,1. Wine/European (subclade 4),3,aneu,heterozygous,1
+BPL,Wine,Europe,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+AIP,Wine,Europe,1. Wine/European (subclade 4),2,aneu,heterozygous,1
+CAN,Wine,North_America,1. Wine/European (subclade 4),2,aneu,heterozygous,1
+CAB,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CAP,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+AQC,Wine,Eurasia,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+AHK,Wine,Africa,1. Wine/European (subclade 4),1,euploid,homozygous,1
+AES,Wine,Europe,1. Wine/European (subclade 4),1,aneu,homozygous,1
+AFI,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+BPR,Nature,Europe,1. Wine/European (subclade 4),3,euploid,heterozygous,1
+AIA,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+BVT,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CAA,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CAC,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+BVV,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CAD,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CAM,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CAQ,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CBB,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+CBE,Wine,North_America,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+AAE,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+AIB,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+CAS,Wine,North_America,1. Wine/European (subclade 4),2,euploid,homozygous,1
+CAR,Wine,North_America,1. Wine/European (subclade 4),2,euploid,homozygous,1
+CAT,Wine,North_America,1. Wine/European (subclade 4),2,euploid,homozygous,1
+CBC,Wine,North_America,1. Wine/European (subclade 4),2,euploid,homozygous,1
+CAV,Wine,North_America,1. Wine/European (subclade 4),2,aneu,homozygous,1
+CBD,Wine,North_America,1. Wine/European (subclade 4),2,euploid,homozygous,1
+AFV,Wine,Europe,1. Wine/European (subclade 4),2,aneu,homozygous,1
+ART,Wine,Europe,1. Wine/European (subclade 4),2,euploid,heterozygous,1
+AIC,Wine,Europe,1. Wine/European (subclade 4),1,euploid,homozygous,1
+SACE_YAF,Wine,Europe,1. Wine/European (subclade 4),2,euploid,homozygous,1
+BSR,Wine,South_America,1. Wine/European ,2,euploid,heterozygous,1
+BSS,Wine,South_America,1. Wine/European ,2,euploid,heterozygous,1
+BTR,Wine,South_America,1. Wine/European ,2,euploid,heterozygous,1
+BTP,Wine,South_America,1. Wine/European ,2,euploid,heterozygous,1
+ASR,Wine,Europe,1. Wine/European ,2,euploid,heterozygous,1
+SACE_YDJ,Wine,NA,1. Wine/European ,2,aneu,homozygous,1
+AVB,Industrial,Europe,2. Alpechin ,1,euploid,homozygous,2
+CDT,Insect,Europe,2. Alpechin ,2,euploid,homozygous,2
+CPG,Nature,Europe,2. Alpechin ,2,euploid,homozygous,2
+ABM,Industrial,Europe,2. Alpechin ,1,euploid,homozygous,2
+AHM,Industrial,Europe,2. Alpechin ,1,euploid,homozygous,2
+AQA,Industrial,Europe,2. Alpechin ,2,euploid,heterozygous,2
+AQD,Industrial,Europe,2. Alpechin ,2,aneu,heterozygous,2
+ATQ,Industrial,Europe,2. Alpechin ,2,aneu,homozygous,2
+CGD,Fruit,North_America,2. Alpechin ,2,euploid,homozygous,2
+CGE,Fruit,North_America,2. Alpechin ,2,euploid,homozygous,2
+AHL,Industrial,Europe,2. Alpechin ,1,euploid,homozygous,2
+BRK,Industrial,Europe,2. Alpechin ,2,euploid,homozygous,2
+SACE_YBR,Industrial,Europe,2. Alpechin ,2,euploid,homozygous,2
+AID,Human,NA,2. Alpechin ,2,euploid,heterozygous,2
+AIE,Human,Europe,2. Alpechin ,1,aneu,homozygous,2
+SACE_YAE,Human,NA,2. Alpechin ,2,euploid,homozygous,2
+SACE_YDM,Human clinical,Europe,2. Alpechin ,2,euploid,homozygous,2
+AGN,Wine,Europe,M1. Mosaic region 1 ,1,euploid,homozygous,M1
+AST,Wine,Europe,M1. Mosaic region 1 ,2,euploid,heterozygous,M1
+BHE,Cider,Europe,M1. Mosaic region 1,2,aneu,heterozygous,M1
+BHD,Cider,Europe,M1. Mosaic region 1,2,euploid,heterozygous,M1
+BHM,Cider,Europe,M1. Mosaic region 1,2,euploid,heterozygous,M1
+BHT,Cider,Europe,M1. Mosaic region 1,2,euploid,homozygous,M1
+ASV,Wine,Europe,M1. Mosaic region 1,2,aneu,heterozygous,M1
+AHF,Nature,Europe,M1. Mosaic region 1,1,euploid,homozygous,M1
+AMP,Fruit,Asia,M1. Mosaic region 1,2,euploid,heterozygous,M1
+CPB,Beer,Europe,M1. Mosaic region 1,2,aneu,heterozygous,M1
+ACS,Wine,Europe,M1. Mosaic region 1,1,euploid,homozygous,M1
+SACE_YCI,Wine,Asia,M1. Mosaic region 1,2,euploid,homozygous,M1
+BHL,Cider,Europe,M1. Mosaic region 1,2,euploid,heterozygous,M1
+BHK,Cider,Europe,M1. Mosaic region 1,2,euploid,heterozygous,M1
+ACG,Fermentation,Asia,M1. Mosaic region 1,1,euploid,homozygous,M1
+ACH,Cider,Europe,M1. Mosaic region 1,1,euploid,homozygous,M1
+CHV,Cider,Europe,M1. Mosaic region 1,2,aneu,homozygous,M1
+AFR,Industrial,South_America,3. Brazilian bioethanol ,1,aneu,homozygous,3
+BVC,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+AEG,Industrial,South_America,3. Brazilian bioethanol ,1,euploid,homozygous,3
+AGM,Industrial,South_America,3. Brazilian bioethanol ,1,euploid,homozygous,3
+CNQ,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+AEH,Industrial,South_America,3. Brazilian bioethanol ,1,euploid,homozygous,3
+AFD,Industrial,South_America,3. Brazilian bioethanol ,1,euploid,homozygous,3
+AHC,Industrial,South_America,3. Brazilian bioethanol ,1,euploid,homozygous,3
+BTT,Distillery,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+APH,Distillery,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+BTV,Distillery,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+BVA,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CMT,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNG,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNK,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+APG,Bioethanol,South_America,3. Brazilian bioethanol ,1,euploid,homozygous,3
+CNM,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNP,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNR,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+BVB,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNI,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNH,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+BVH,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNN,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNF,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNB,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+BVG,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNE,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNL,Bioethanol,South_America,3. Brazilian bioethanol ,2,aneu,heterozygous,3
+BVD,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,homozygous,3
+BVF,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNS,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+CNT,Bioethanol,South_America,3. Brazilian bioethanol ,2,euploid,heterozygous,3
+BVE,Bioethanol,South_America,3. Brazilian bioethanol ,1,euploid,homozygous,3
+CNV,Bioethanol,South_America,3. Brazilian bioethanol ,2,aneu,heterozygous,3
+AHB,Nature,NA,NA,1,euploid,homozygous,-1
+SACE_YBQ,Nature,NA,NA,2,euploid,homozygous,-1
+CCL,Tree,Europe,4. Mediterranean oak ,2,euploid,homozygous,4
+BBQ,Soil,Europe,4. Mediterranean oak ,2,euploid,homozygous,4
+BBS,Soil,Europe,4. Mediterranean oak ,2,euploid,homozygous,4
+BFP,Tree,Europe,4. Mediterranean oak ,2,euploid,homozygous,4
+BTG,Tree,Europe,4. Mediterranean oak ,2,euploid,homozygous,4
+CLC,Tree,Europe,4. Mediterranean oak ,2,aneu,homozygous,4
+CLB,Tree,Europe,4. Mediterranean oak ,2,euploid,homozygous,4
+CLD,Flower,Europe,4. Mediterranean oak ,2,aneu,homozygous,4
+AQM,Dairy,Europe,5. French dairy ,2,aneu,heterozygous,5
+BFN,Tree,Europe,5. French dairy ,2,aneu,heterozygous,5
+BME,Human,Europe,5. French dairy ,3,aneu,heterozygous,5
+ARS,Nature,NA,5. French dairy ,2,aneu,heterozygous,5
+ARN,Human clinical,Europe,5. French dairy ,3,euploid,heterozygous,5
+BGM,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGP,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BFH,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGR,Dairy,Europe,5. French dairy ,2,aneu,heterozygous,5
+ASN,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGK,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGS,Dairy,Europe,5. French dairy ,2,aneu,heterozygous,5
+BGD,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGI,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+ALD,Nature,South_America,5. French dairy ,2,euploid,heterozygous,5
+BFS,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGB,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGF,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGG,Dairy,Europe,5. French dairy ,2,aneu,heterozygous,5
+ARR,Dairy,Europe,5. French dairy ,2,aneu,heterozygous,5
+BFT,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGE,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGL,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BFV,Dairy,Europe,5. French dairy ,2,aneu,heterozygous,5
+BGA,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGT,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGV,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGH,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGN,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGC,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+BGQ,Dairy,Europe,5. French dairy ,2,euploid,heterozygous,5
+CKV,Human clinical,Europe,5. French dairy ,2,euploid,heterozygous,5
+AFL,Beer,Africa,6. African beer ,1,aneu,homozygous,6
+AEN,Beer,Africa,6. African beer ,2,aneu,heterozygous,6
+ASC,Beer,Africa,6. African beer ,3,aneu,heterozygous,6
+ANL,Beer,Africa,6. African beer ,4,euploid,heterozygous,6
+ANM,Beer,Africa,6. African beer ,4,euploid,heterozygous,6
+AVN,Beer,Africa,6. African beer ,4,euploid,heterozygous,6
+AVP,Beer,Africa,6. African beer ,5,aneu,heterozygous,6
+AVQ,Beer,Africa,6. African beer ,5,aneu,heterozygous,6
+AVR,Beer,Africa,6. African beer ,5,aneu,heterozygous,6
+AVS,Beer,Africa,6. African beer ,5,aneu,heterozygous,6
+AVT,Beer,Africa,6. African beer ,5,aneu,heterozygous,6
+BEK,Beer,Africa,6. African beer ,4,euploid,heterozygous,6
+BEM,Beer,Africa,6. African beer ,4,euploid,heterozygous,6
+BEI,Beer,Africa,6. African beer ,3,euploid,heterozygous,6
+BEN,Beer,Africa,6. African beer ,3,euploid,heterozygous,6
+BHA,Beer,Africa,6. African beer ,3,euploid,heterozygous,6
+BDN,Nature,Africa,6. African beer ,2,euploid,heterozygous,6
+CES,Bakery,Africa,6. African beer ,2,aneu,homozygous,6
+CER,Bakery,Africa,6. African beer ,2,euploid,homozygous,6
+CET,Bakery,Africa,6. African beer ,2,aneu,homozygous,6
+BPI,Unknown,Africa,NA,2,aneu,heterozygous,-1
+BPN,Wine,Europe,NA,2,euploid,heterozygous,-1
+SACE_YDB,Unknown,Africa,NA,2,euploid,homozygous,-1
+AAB,Beer,Europe,7. Mosaic beer ,1,euploid,homozygous,7
+CBN,Beer,Europe,7. Mosaic beer ,2,euploid,homozygous,7
+AQG,Beer,Europe,7. Mosaic beer ,2,euploid,heterozygous,7
+CFF,Beer,Europe,7. Mosaic beer ,2,euploid,heterozygous,7
+AFB,Beer,Europe,7. Mosaic beer ,1,euploid,homozygous,7
+AFA,Beer,Europe,7. Mosaic beer ,2,aneu,homozygous,7
+AFP,Beer,Europe,7. Mosaic beer ,2,euploid,heterozygous,7
+AQH,Industrial,South_America,7. Mosaic beer ,3,aneu,heterozygous,7
+SACE_YAB,Distillery,NA,7. Mosaic beer ,2,euploid,homozygous,7
+AAR,Beer,Europe,7. Mosaic beer ,1,euploid,homozygous,7
+AEA,Industrial,South_America,7. Mosaic beer ,1,euploid,homozygous,7
+BRM,Distillery,South_America,7. Mosaic beer ,1,euploid,homozygous,7
+AEQ,Beer,Asia,7. Mosaic beer ,1,euploid,homozygous,7
+SACE_YAG,Beer,NA,7. Mosaic beer ,2,euploid,homozygous,7
+AAQ,Beer,North_America,7. Mosaic beer ,1,euploid,homozygous,7
+ASB,Human clinical,NA,7. Mosaic beer ,2,euploid,heterozygous,7
+APP,Beer,South_America,7. Mosaic beer ,3,aneu,heterozygous,7
+CPD,Beer,NA,7. Mosaic beer ,2,aneu,heterozygous,7
+AIG,Beer,NA,7. Mosaic beer ,1,euploid,homozygous,7
+ARE,Tree,NA,7. Mosaic beer ,2,aneu,heterozygous,7
+SACE_YDD,Fermentation,North_America,7. Mosaic beer ,2,euploid,homozygous,7
+AFQ,Water,South_America,M2. Mosaic region 2 ,1,euploid,homozygous,M2
+CDM,Water,South_America,M2. Mosaic region 2 ,2,euploid,homozygous,M2
+SACE_YCF,Fruit,Asia,M2. Mosaic region 2,2,euploid,homozygous,M2
+CFT,Fruit,North_America,M2. Mosaic region 2,2,aneu,heterozygous,M2
+AER,Industrial,Caribbean,M2. Mosaic region 2,1,aneu,heterozygous,M2
+BCV,Nature,Middle_east,M2. Mosaic region 2,2,euploid,heterozygous,M2
+BDB,Nature,Middle_east,M2. Mosaic region 2,2,euploid,heterozygous,M2
+BDD,Nature,Middle_east,M2. Mosaic region 2,2,euploid,heterozygous,M2
+BDA,Nature,Middle_east,M2. Mosaic region 2,2,aneu,heterozygous,M2
+BDE,Nature,Middle_east,M2. Mosaic region 2,3,aneu,heterozygous,M2
+BDH,Nature,Middle_east,M2. Mosaic region 2,2,euploid,heterozygous,M2
+BDI,Nature,Middle_east,M2. Mosaic region 2,2,aneu,heterozygous,M2
+BDK,Nature,Middle_east,M2. Mosaic region 2,2,aneu,homozygous,M2
+SACE_YCT,Wine,Europe,M2. Mosaic region 2,2,euploid,homozygous,M2
+SACE_YCC,Industrial,North_America,M2. Mosaic region 2,2,euploid,homozygous,M2
+BHG,Cider,Europe,M2. Mosaic region 2,2,euploid,heterozygous,M2
+BHH,Cider,Europe,M2. Mosaic region 2,2,euploid,homozygous,M2
+BHI,Cider,Europe,M2. Mosaic region 2,2,euploid,heterozygous,M2
+SACE_MAA,Human clinical,Europe,M2. Mosaic region 2,2,euploid,homozygous,M2
+SACE_YCZ,Human clinical,North_America,M2. Mosaic region 2,2,euploid,homozygous,M2
+AFF,Bakery,Europe,8. Mixed origin ,1,euploid,homozygous,8
+AAL,Bakery,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+AAM,Bakery,Europe,8. Mixed origin ,1,euploid,homozygous,8
+ANP,Insect,Caribbean,8. Mixed origin ,2,euploid,heterozygous,8
+AHV,Beer,NA,8. Mixed origin ,1,aneu,heterozygous,8
+ATS,Flower,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+BBP,Flower,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+CDR,Flower,Europe,8. Mixed origin ,2,euploid,homozygous,8
+BMG,Human clinical,Europe,8. Mixed origin ,3,aneu,heterozygous,8
+CHL,Bakery,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+ADP,Unknown,South_America,8. Mixed origin ,2,aneu,heterozygous,8
+AMK,Tree,Asia,8. Mixed origin ,3,aneu,heterozygous,8
+AML,Tree,Asia,8. Mixed origin ,3,euploid,heterozygous,8
+AMI,Tree,Asia,8. Mixed origin ,3,aneu,heterozygous,8
+AMG,Tree,Asia,8. Mixed origin ,3,euploid,heterozygous,8
+AMQ,Tree,Asia,8. Mixed origin ,3,euploid,heterozygous,8
+APK,Bakery,Africa,8. Mixed origin ,3,euploid,heterozygous,8
+APN,Bakery,Asia,8. Mixed origin ,3,aneu,heterozygous,8
+CIE,Human clinical,Europe,8. Mixed origin ,3,aneu,heterozygous,8
+AEM,Beer,NA,8. Mixed origin ,1,aneu,heterozygous,8
+AFT,Human clinical,Europe,8. Mixed origin ,4,euploid,homozygous,8
+AQI,Water,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+AFE,Water,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+ATR,Fruit,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+AFC,Nature,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+APM,Bakery,Asia,8. Mixed origin ,2,aneu,heterozygous,8
+API,Bakery,Asia,8. Mixed origin ,2,aneu,heterozygous,8
+ASL,Bakery,Middle_east,8. Mixed origin ,2,aneu,heterozygous,8
+BTF,Bakery,NA,8. Mixed origin ,2,aneu,heterozygous,8
+ASP,Unknown,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+BCR,Nature,Middle_east,8. Mixed origin ,4,aneu,heterozygous,8
+BCS,Nature,Middle_east,8. Mixed origin ,2,euploid,heterozygous,8
+BCT,Nature,Middle_east,8. Mixed origin ,2,euploid,heterozygous,8
+AGK,Nature,Europe,8. Mixed origin ,1,euploid,homozygous,8
+AGE,Bakery,NA,8. Mixed origin ,2,aneu,heterozygous,8
+BTC,Bakery,NA,8. Mixed origin ,2,euploid,heterozygous,8
+ABV,Water,South_America,8. Mixed origin ,3,aneu,heterozygous,8
+ALV,Fruit,Europe,8. Mixed origin ,3,aneu,heterozygous,8
+BBC,Fruit,Europe,8. Mixed origin ,3,aneu,heterozygous,8
+AMN,Tree,Asia,8. Mixed origin ,4,euploid,heterozygous,8
+CFP,Beer,NA,8. Mixed origin ,4,euploid,heterozygous,8
+BBF,Water,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+AAP,Bakery,Australia,8. Mixed origin ,2,euploid,heterozygous,8
+ALN,Water,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+ALP,Water,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+BBD,Water,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+BBE,Water,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+AAN,Bakery,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+CHI,Bakery,North_America,8. Mixed origin ,2,euploid,heterozygous,8
+APL,Bakery,Middle_east,8. Mixed origin ,2,euploid,heterozygous,8
+AEV,Water,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+CFI,Beer,Europe,8. Mixed origin ,4,aneu,heterozygous,8
+CFN,Beer,NA,8. Mixed origin ,4,aneu,heterozygous,8
+CHK,Beer,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+CHH,Bakery,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+ADL,Bakery,Europe,8. Mixed origin ,2,aneu,heterozygous,8
+BDL,Beer,South_America,8. Mixed origin ,2,euploid,heterozygous,8
+BFM,Industrial,Europe,8. Mixed origin ,4,aneu,heterozygous,8
+BFE,Industrial,NA,8. Mixed origin ,4,aneu,heterozygous,8
+BFG,Nature,NA,8. Mixed origin ,4,euploid,heterozygous,8
+BTD,Bakery,NA,8. Mixed origin ,4,aneu,heterozygous,8
+ADM,Bakery,Asia,8. Mixed origin ,2,euploid,heterozygous,8
+AKT,Insect,South_America,8. Mixed origin ,2,euploid,heterozygous,8
+CHG,Bakery,Asia,8. Mixed origin ,2,euploid,heterozygous,8
+CHR,Human clinical,Europe,8. Mixed origin ,2,euploid,heterozygous,8
+BML,Human clinical,Europe,8. Mixed origin ,4,aneu,heterozygous,8
+BTE,Bakery,NA,8. Mixed origin ,4,euploid,heterozygous,8
+BMM,Human clinical,Europe,8. Mixed origin ,4,aneu,heterozygous,8
+CBF,Bakery,Europe,8. Mixed origin ,4,aneu,heterozygous,8
+CKK,Human clinical,Europe,8. Mixed origin ,4,euploid,heterozygous,8
+CKS,Human clinical,Europe,8. Mixed origin ,4,aneu,heterozygous,8
+CLA,Human clinical,Europe,8. Mixed origin ,4,aneu,heterozygous,8
+SACE_YBW,Human clinical,North_America,NA,2,euploid,homozygous,-1
+CPI,Distillery,South_America,9. Mexican agave ,2,euploid,heterozygous,9
+CPM,Distillery,South_America,9. Mexican agave ,2,euploid,heterozygous,9
+CPK,Distillery,South_America,9. Mexican agave ,2,euploid,heterozygous,9
+CPL,Distillery,South_America,9. Mexican agave ,2,euploid,heterozygous,9
+CPQ,Distillery,South_America,9. Mexican agave ,2,aneu,heterozygous,9
+CPN,Distillery,South_America,9. Mexican agave ,2,euploid,heterozygous,9
+CPR,Distillery,South_America,9. Mexican agave ,2,aneu,heterozygous,9
+ALI,Water,South_America,NA,2,euploid,heterozygous,-1
+BCG,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCB,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCM,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BDT,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCF,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCL,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCD,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BDP,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCI,Human,South_America,10. French Guiana human ,2,aneu,heterozygous,10
+BCC,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BEC,Human,South_America,10. French Guiana human ,2,aneu,heterozygous,10
+BED,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCE,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCQ,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BDV,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BNB,Fruit,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BDR,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BMV,Nature,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BNA,Nature,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCH,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCP,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BDS,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCN,Human,South_America,10. French Guiana human ,1,euploid,homozygous,10
+BEA,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BNC,Fruit,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BDQ,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BEB,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BCK,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BMR,Nature,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BEE,Human,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+BND,Fruit,South_America,10. French Guiana human ,2,euploid,heterozygous,10
+CQS,Nature,South_America,NA,2,euploid,homozygous,-1
+BBM,Distillery,South_America,NA,2,euploid,homozygous,-1
+CPA,Nature,South_America,NA,2,euploid,heterozygous,-1
+ADE,Palm wine,Africa,NA,1,euploid,homozygous,-1
+SACE_YCL,Tree,NA,NA,2,euploid,homozygous,-1
+SACE_YBV,Human clinical,North_America,NA,2,euploid,homozygous,-1
+SACE_YAX,Human clinical,NA,NA,2,euploid,homozygous,-1
+SACE_YCG,Industrial,North_America,NA,2,euploid,homozygous,-1
+AAH,Unknown,NA,NA,1,euploid,homozygous,-1
+AFS,Fruit,NA,NA,2,aneu,heterozygous,-1
+AGC,Distillery,North_America,NA,1,aneu,heterozygous,-1
+CFC,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+AGB,Beer,Europe,11. Ale beer ,2,euploid,heterozygous,11
+ATV,Beer,Europe,11. Ale beer ,4,euploid,heterozygous,11
+AAC,Beer,Europe,11. Ale beer ,2,euploid,heterozygous,11
+CBR,Beer,Europe,11. Ale beer ,4,euploid,heterozygous,11
+CFG,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+CFH,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+AEC,Beer,Europe,11. Ale beer ,Xn,NA,heterozygous,11
+CFD,Beer,North_America,11. Ale beer ,4,aneu,heterozygous,11
+CFM,Beer,North_America,11. Ale beer ,4,aneu,heterozygous,11
+AQT,Beer,Europe,11. Ale beer ,3,aneu,heterozygous,11
+BRP,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+BSI,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+AEB,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+ASH,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+BBG,Water,Europe,11. Ale beer ,4,aneu,heterozygous,11
+BRQ,Beer,Europe,11. Ale beer ,4,aneu,heterozygous,11
+CGC,Fruit,North_America,11. Ale beer ,4,euploid,heterozygous,11
+CNC,Bioethanol,South_America,M3. Mosaic region 3 ,2,euploid,heterozygous,M3
+BMQ,Human clinical,Europe,M3. Mosaic region 3 ,2,aneu,heterozygous,M3
+ACN,Wine,Europe,M3. Mosaic region 3 ,1,euploid,homozygous,M3
+CBK,Insect,Europe,M3. Mosaic region 3 ,1,euploid,homozygous,M3
+CBL,Insect,Europe,M3. Mosaic region 3 ,2,euploid,heterozygous,M3
+AKI,Wine,Africa,M3. Mosaic region 3 ,2,euploid,homozygous,M3
+ADA,Wine,Europe,M3. Mosaic region 3 ,1,euploid,homozygous,M3
+ATE,Unknown,Europe,M3. Mosaic region 3,2,euploid,homozygous,M3
+CBM,Insect,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+ACA,Fruit,North_America,M3. Mosaic region 3,1,euploid,homozygous,M3
+ACB,Dairy,Europe,M3. Mosaic region 3,1,euploid,homozygous,M3
+BRL,Unknown,North_America,M3. Mosaic region 3,1,aneu,homozygous,M3
+ADT,Nature,Europe,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_GAV,Lab strain,NA,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YCE,Distillery,South_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YCH,Nature,Caribbean,M3. Mosaic region 3,2,euploid,homozygous,M3
+CLG,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CQC,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQD,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQG,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQI,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQH,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQL,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+ANN,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQM,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQE,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQK,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQF,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQN,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+CQP,Fermentation,Africa,12. West African cocoa ,2,euploid,heterozygous,12
+AKQ,Insect,South_America,M3. Mosaic region 3 ,2,euploid,homozygous,M3
+AKS,Flower,South_America,M3. Mosaic region 3 ,2,euploid,homozygous,M3
+ALG,Fruit,South_America,M3. Mosaic region 3 ,2,euploid,homozygous,M3
+ABH,Human clinical,NA,M3. Mosaic region 3 ,1,euploid,homozygous,M3
+SACE_YAN,Human clinical,North_America,M3. Mosaic region 3 ,2,euploid,homozygous,M3
+SACE_YBZ,Fruit,North_America,M3. Mosaic region 3 ,2,euploid,homozygous,M3
+BTI,Tree,North_America,M3. Mosaic region 3 ,2,euploid,homozygous,M3
+CGB,Insect,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YDG,Fruit,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+ABI,Human clinical,North_America,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YAT,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+BSK,Unknown,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+BMD,Human,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+AAV,Human clinical,North_America,M3. Mosaic region 3,1,euploid,homozygous,M3
+BRV,Human clinical,North_America,M3. Mosaic region 3,2,euploid,heterozygous,M3
+SACE_YAP,Human clinical,North_America,M3. Mosaic region 3,2,aneu,homozygous,M3
+SACE_YAQ,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YAR,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+ABK,Human clinical,NA,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YAU,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+ABA,Human clinical,North_America,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YAV,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+AAS,Human clinical,North_America,M3. Mosaic region 3,1,euploid,homozygous,M3
+AAT,Human clinical,North_America,M3. Mosaic region 3,1,aneu,homozygous,M3
+ABG,Human clinical,NA,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YAK,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+CEN,Fruit,NA,M3. Mosaic region 3,2,aneu,heterozygous,M3
+SACE_YAW,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YBJ,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YBK,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YBL,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YBT,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+ADK,Bakery,Asia,M3. Mosaic region 3,2,aneu,heterozygous,M3
+SACE_MAB,Human clinical,Europe,M3. Mosaic region 3,2,euploid,homozygous,M3
+CKA,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+AGP,Fruit,Europe,M3. Mosaic region 3,1,aneu,heterozygous,M3
+SACE_YDH,Fermentation,Europe,M3. Mosaic region 3,2,aneu,homozygous,M3
+CHS,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CHT,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+ABD,Human clinical,North_America,M3. Mosaic region 3,2,aneu,homozygous,M3
+ATC,Human clinical,NA,M3. Mosaic region 3,2,aneu,heterozygous,M3
+ATD,Human clinical,NA,M3. Mosaic region 3,2,euploid,homozygous,M3
+ANA,Wine,Africa,M3. Mosaic region 3,2,aneu,heterozygous,M3
+BBL,Insect,Europe,M3. Mosaic region 3,2,aneu,homozygous,M3
+CDC,Tree,Europe,M3. Mosaic region 3,2,aneu,homozygous,M3
+CDD,Tree,Europe,M3. Mosaic region 3,2,euploid,homozygous,M3
+CDE,Tree,Europe,M3. Mosaic region 3,2,euploid,homozygous,M3
+CPC,Fruit,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+BMF,Human,Europe,M3. Mosaic region 3,2,aneu,heterozygous,M3
+CKN,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CIG,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CIL,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+AAG,Unknown,NA,M3. Mosaic region 3,1,euploid,homozygous,M3
+AHA,Fruit,Caribbean,M3. Mosaic region 3,1,euploid,homozygous,M3
+CII,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CIK,Human clinical,Europe,M3. Mosaic region 3,2,aneu,heterozygous,M3
+BTA,Human clinical,Europe,M3. Mosaic region 3,3,euploid,heterozygous,M3
+BDC,Nature,Middle_east,M3. Mosaic region 3,2,aneu,heterozygous,M3
+BDF,Nature,Middle_east,M3. Mosaic region 3,2,aneu,heterozygous,M3
+BDG,Nature,Middle_east,M3. Mosaic region 3,2,aneu,heterozygous,M3
+CHQ,Bakery,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+ALR,Tree,Europe,M3. Mosaic region 3,3,aneu,heterozygous,M3
+AEL,Distillery,NA,M3. Mosaic region 3,2,euploid,heterozygous,M3
+AEE,Distillery,NA,M3. Mosaic region 3,3,aneu,heterozygous,M3
+ARA,Distillery,NA,M3. Mosaic region 3,4,aneu,heterozygous,M3
+ARB,Bakery,NA,M3. Mosaic region 3,4,aneu,heterozygous,M3
+BTB,Bakery,NA,M3. Mosaic region 3,3,aneu,heterozygous,M3
+ATB,Nature,NA,M3. Mosaic region 3,3,euploid,heterozygous,M3
+BIE,Wine,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+BPA,Soil,Europe,M3. Mosaic region 3,2,aneu,heterozygous,M3
+AGT,Unknown,NA,M3. Mosaic region 3,1,euploid,homozygous,M3
+CIH,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+ABF,Human clinical,NA,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YAL,Human clinical,NA,M3. Mosaic region 3,2,euploid,homozygous,M3
+AEI,Bakery,NA,M3. Mosaic region 3,1,euploid,homozygous,M3
+AFG,Bakery,NA,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YBU,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YBM,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+ABC,Human clinical,North_America,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YDL,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+SACE_YDN,Human clinical,North_America,M3. Mosaic region 3,2,euploid,homozygous,M3
+CIC,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CDK,Tree,Asia,M3. Mosaic region 3,1,euploid,homozygous,M3
+CEM,Fermentation,Asia,M3. Mosaic region 3,1,euploid,homozygous,M3
+CIF,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CID,Human clinical,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+BBT,Wine,Europe,M3. Mosaic region 3,3,euploid,heterozygous,M3
+CHN,Bakery,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CHP,Bakery,Europe,M3. Mosaic region 3,2,euploid,heterozygous,M3
+CMG,Sake,Asia,M3. Mosaic region 3,3,aneu,heterozygous,M3
+CRE,Insect,South_America,M3. Mosaic region 3,3,euploid,heterozygous,M3
+BDM,Nature,Africa,M3. Mosaic region 3,2,euploid,heterozygous,M3
+ACI,Fruit,Asia,M3. Mosaic region 3,1,euploid,homozygous,M3
+SACE_YCS,Unknown,NA,M3. Mosaic region 3,2,euploid,homozygous,M3
+ACL,Palm wine,NA,M3. Mosaic region 3,1,aneu,homozygous,M3
+CEQ,Fermentation,Africa,M3. Mosaic region 3,2,euploid,homozygous,M3
+BAB,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+AVV,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+BAA,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+BAD,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+BAC,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+BAE,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+BAF,Palm wine,Africa,13. African palm wine ,2,euploid,heterozygous,13
+CFA,Palm wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+SACE_GAL,Lab strain,North_America,13. African palm wine ,2,euploid,homozygous,13
+CPS,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+CPT,Palm wine,Africa,13. African palm wine ,2,aneu,heterozygous,13
+CQA,Palm wine,Africa,13. African palm wine ,2,euploid,heterozygous,13
+CQB,Palm wine,Africa,13. African palm wine ,2,euploid,heterozygous,13
+AHS,Wine,Africa,13. African palm wine ,1,aneu,homozygous,13
+ADV,Palm wine,Africa,13. African palm wine ,1,euploid,homozygous,13
+AKG,Palm wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+SACE_YAC,Palm wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+ADF,Tree,North_America,13. African palm wine ,1,euploid,homozygous,13
+AKB,Palm wine,Africa,13. African palm wine ,2,euploid,heterozygous,13
+AKD,Palm wine,Africa,13. African palm wine ,3,euploid,heterozygous,13
+AKC,Palm wine,Africa,13. African palm wine ,3,aneu,heterozygous,13
+AKE,Palm wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+AKH,Palm wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+APQ,Palm wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+APR,Beer,Africa,13. African palm wine ,2,aneu,homozygous,13
+ATP,Palm wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+SACE_YBP,Wine,Africa,13. African palm wine ,2,euploid,homozygous,13
+SACE_YCV,Beer,Africa,13. African palm wine ,2,aneu,homozygous,13
+BAM,Nature,Asia,14. CHNIII ,2,euploid,homozygous,14
+BAQ,Tree,Asia,14. CHNIII ,2,euploid,homozygous,14
+BAG,Tree,Asia,15. CHNII ,2,euploid,homozygous,15
+BAH,Tree,Asia,15. CHNII ,2,euploid,homozygous,15
+BAL,Nature,Asia,16. CHNI,2,euploid,homozygous,16
+AMH,Soil,Asia,17. Taiwanese ,2,euploid,homozygous,17
+CEG,Soil,Asia,17. Taiwanese ,2,euploid,homozygous,17
+CEI,Soil,Asia,17. Taiwanese ,2,euploid,homozygous,17
+CCQ,Tree,Asia,18. Far East Asia ,2,euploid,homozygous,18
+CCR,Tree,Asia,18. Far East Asia ,2,euploid,homozygous,18
+CCS,Tree,Asia,18. Far East Asia ,2,euploid,homozygous,18
+BAK,Tree,Asia,18. Far East Asia ,2,euploid,homozygous,18
+BAI,Fruit,Asia,18. Far East Asia ,2,euploid,homozygous,18
+ACQ,Wine,Europe,18. Far East Asia ,1,euploid,homozygous,18
+CCN,Fruit,Asia,18. Far East Asia ,2,euploid,homozygous,18
+CDL,Tree,Europe,18. Far East Asia ,2,euploid,homozygous,18
+SACE_YCR,Tree,Asia,18. Far East Asia ,2,euploid,homozygous,18
+BMA,Tree,Asia,19. Malaysian ,2,euploid,homozygous,19
+AKM,Tree,Asia,19. Malaysian ,2,euploid,homozygous,19
+BMB,Tree,Asia,19. Malaysian ,2,euploid,homozygous,19
+BMC,Tree,Asia,19. Malaysian ,2,euploid,homozygous,19
+SACE_MAL,Insect,Asia,19. Malaysian ,2,euploid,homozygous,19
+SACE_YCY,Tree,Asia,19. Malaysian ,2,euploid,homozygous,19
+ABL,Soil,Africa,NA,1,euploid,homozygous,-1
+SACE_YCB,Soil,Africa,NA,2,euploid,homozygous,-1
+AMM,Tree,Asia,NA,2,euploid,homozygous,-1
+BAN,Nature,Asia,20. CHN V ,2,euploid,homozygous,20
+BAP,Soil,Asia,20. CHN V ,2,euploid,homozygous,20
+CMP,Tree,North_America,21. Ecuadorean ,2,euploid,homozygous,21
+CCH,Insect,South_America,21. Ecuadorean ,2,aneu,homozygous,21
+ACC,Tree,North_America,21. Ecuadorean ,1,euploid,homozygous,21
+CCC,Flower,South_America,21. Ecuadorean ,2,euploid,homozygous,21
+CCD,Flower,South_America,21. Ecuadorean ,2,euploid,homozygous,21
+CCE,Flower,South_America,21. Ecuadorean ,2,euploid,homozygous,21
+CCF,Insect,South_America,21. Ecuadorean ,2,euploid,homozygous,21
+CCG,Fruit,South_America,21. Ecuadorean ,2,euploid,homozygous,21
+CCI,Insect,South_America,21. Ecuadorean ,2,euploid,homozygous,21
+CMQ,Tree,North_America,21. Ecuadorean ,2,euploid,homozygous,21
+SACE_GAT,Nature,North_America,NA,2,euploid,homozygous,-1
+SACE_YCX,Nature,North_America,NA,2,euploid,homozygous,-1
+CDN,Insect,North_America,NA,2,aneu,homozygous,-1
+BFA,Soil,Europe,NA,2,euploid,homozygous,-1
+BFL,Tree,Europe,NA,2,euploid,homozygous,-1
+AMB,Insect,North_America,NA,2,euploid,homozygous,-1
+AMC,Insect,North_America,NA,2,euploid,homozygous,-1
+CDQ,Tree,North_America,NA,2,euploid,homozygous,-1
+SACE_GAS,Nature,Caribbean,NA,2,euploid,homozygous,-1
+SACE_YCW,Fruit,Caribbean,NA,2,euploid,homozygous,-1
+CDF,Fruit,Europe,22. Far East Russian ,2,euploid,homozygous,22
+CDG,Wine,Europe,22. Far East Russian ,2,euploid,homozygous,22
+CDH,Tree,Europe,22. Far East Russian ,2,euploid,homozygous,22
+CDI,Tree,Europe,22. Far East Russian ,2,euploid,homozygous,22
+AMD,Fruit,Asia,NA,2,euploid,homozygous,-1
+AMF,Fruit,Asia,NA,2,euploid,homozygous,-1
+CEH,Fruit,Asia,NA,2,euploid,homozygous,-1
+CCP,Tree,Asia,NA,2,euploid,homozygous,-1
+BEG,Industrial,Asia,NA,2,aneu,homozygous,-1
+CDB,Soil,Asia,NA,2,euploid,homozygous,-1
+AVI,Soil,North_America,23. North American oak ,2,euploid,homozygous,23
+ACD,Tree,North_America,23. North American oak ,1,euploid,homozygous,23
+ANF,Soil,North_America,23. North American oak ,2,euploid,homozygous,23
+ANH,Nature,North_America,23. North American oak ,2,euploid,homozygous,23
+ANC,Tree,North_America,23. North American oak ,2,euploid,homozygous,23
+ANE,Soil,North_America,23. North American oak ,2,euploid,homozygous,23
+ANG,Soil,North_America,23. North American oak ,2,euploid,homozygous,23
+AND,Soil,North_America,23. North American oak ,2,euploid,homozygous,23
+ANK,Tree,North_America,23. North American oak ,2,euploid,homozygous,23
+ANI,Soil,North_America,23. North American oak ,2,euploid,homozygous,23
+AKN,Soil,North_America,23. North American oak ,2,euploid,homozygous,23
+SACE_YBS,Tree,North_America,23. North American oak ,2,euploid,homozygous,23
+SACE_YCU,Tree,North_America,23. North American oak ,2,euploid,homozygous,23
+BBR,Tree,Europe,NA,2,euploid,homozygous,-1
+SACE_YCO,Wine,NA,NA,2,euploid,homozygous,-1
+CMS,Tree,North_America,NA,2,euploid,homozygous,-1
+ADG,Tree,North_America,NA,1,euploid,homozygous,-1
+CDP,Tree,North_America,NA,2,euploid,homozygous,-1
+SACE_YDI,Unknown,Asia,NA,2,euploid,homozygous,-1
+ARH,Fermentation,Oceania,24. Asian islands ,2,aneu,heterozygous,24
+ARI,Fermentation,Oceania,24. Asian islands ,2,aneu,heterozygous,24
+AFK,Palm wine,Asia,24. Asian islands ,2,euploid,homozygous,24
+AHH,Palm wine,Europe,24. Asian islands ,1,euploid,homozygous,24
+CCT,Tree,Asia,24. Asian islands ,2,euploid,homozygous,24
+CCV,Tree,Asia,24. Asian islands ,2,euploid,homozygous,24
+CDA,Tree,Asia,24. Asian islands ,1,euploid,homozygous,24
+AGR,Nature,NA,24. Asian islands ,1,euploid,homozygous,24
+ARG,Tree,Oceania,24. Asian islands ,2,euploid,homozygous,24
+SACE_YCM,Fruit,Asia,24. Asian islands ,2,euploid,homozygous,24
+SACE_YDE,Palm wine,Asia,24. Asian islands ,2,euploid,homozygous,24
+SACE_YCN,Fruit,Asia,NA,2,euploid,homozygous,-1
+ASM,Nature,Asia,NA,3,aneu,heterozygous,-1
+CGH,Unknown,Asia,NA,3,euploid,heterozygous,-1
+CEP,Fermentation,Asia,NA,2,aneu,homozygous,-1
+CKR,Human clinical,Europe,NA,2,aneu,heterozygous,-1
+ARP,Wine,Asia,25. Sake ,2,aneu,heterozygous,25
+AEF,Sake,Asia,25. Sake ,1,euploid,homozygous,25
+CMH,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+ARM,Fruit,Asia,25. Sake ,2,euploid,heterozygous,25
+CLI,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+CMK,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+CLQ,Sake,Asia,25. Sake ,1,aneu,homozygous,25
+CLN,Sake,Asia,25. Sake ,2,euploid,homozygous,25
+AFN,Sake,Asia,25. Sake ,1,euploid,homozygous,25
+ADQ,Sake,Asia,25. Sake ,1,euploid,homozygous,25
+AFM,Sake,Asia,25. Sake ,1,euploid,homozygous,25
+APA,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+BTS,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+ANT,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+ANR,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+ANV,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+ADN,Sake,Asia,25. Sake ,1,euploid,homozygous,25
+CMF,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CMI,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+AAD,Sake,Asia,25. Sake ,2,aneu,homozygous,25
+ANS,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+AQN,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+CLM,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CMN,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+APC,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+APD,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+AVC,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CMD,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CLP,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+CMC,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+APF,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+APE,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+AVD,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+AVM,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CLT,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CLS,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+CME,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CLL,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+CLR,Sake,Asia,25. Sake ,2,euploid,heterozygous,25
+CML,Sake,Asia,25. Sake ,2,aneu,homozygous,25
+CMM,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CMB,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+AVL,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CLV,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CLK,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CQQ,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+CQR,Sake,Asia,25. Sake ,2,aneu,heterozygous,25
+AHQ,Industrial,Asia,26. Asian fermentation ,1,euploid,homozygous,26
+CGL,Unknown,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+AFH,Distillery,NA,26. Asian fermentation ,1,euploid,homozygous,26
+AGG,Distillery,NA,26. Asian fermentation ,2,euploid,heterozygous,26
+AEP,Distillery,NA,26. Asian fermentation ,2,euploid,homozygous,26
+CEV,Distillery,Asia,26. Asian fermentation ,1,euploid,homozygous,26
+CGI,Unknown,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+CGN,Fermentation,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+CGP,Unknown,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+CGG,Unknown,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+CGR,Fermentation,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+AQS,Distillery,Oceania,26. Asian fermentation ,2,aneu,heterozygous,26
+BEH,Fermentation,Asia,26. Asian fermentation ,2,euploid,homozygous,26
+ACM,Fermentation,Oceania,26. Asian fermentation ,1,euploid,homozygous,26
+AKL,Sake,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+ABB,Human clinical,North_America,26. Asian fermentation ,1,euploid,homozygous,26
+ACK,Palm wine,Africa,26. Asian fermentation ,1,euploid,homozygous,26
+ADH,Tree,North_America,26. Asian fermentation ,1,euploid,homozygous,26
+SACE_YDA,Palm wine,Europe,26. Asian fermentation ,2,euploid,homozygous,26
+ALB,Insect,South_America,26. Asian fermentation ,2,euploid,heterozygous,26
+AKR,Fruit,South_America,26. Asian fermentation ,2,euploid,heterozygous,26
+ALC,Nature,South_America,26. Asian fermentation ,2,euploid,heterozygous,26
+ALH,Nature,South_America,26. Asian fermentation ,2,euploid,heterozygous,26
+ALA,Insect,South_America,26. Asian fermentation ,2,euploid,heterozygous,26
+ALK,Tree,South_America,26. Asian fermentation ,2,aneu,heterozygous,26
+CGQ,Unknown,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+BRG,Soil,Africa,26. Asian fermentation ,3,euploid,heterozygous,26
+CGK,Unknown,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+CHM,Bakery,Europe,26. Asian fermentation ,2,euploid,heterozygous,26
+BHP,Fermentation,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+BHQ,Fermentation,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+BHR,Fermentation,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+BHS,Fermentation,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+BEF,Fermentation,Asia,26. Asian fermentation ,2,euploid,heterozygous,26
+CEK,Fermentation,Asia,26. Asian fermentation ,2,euploid,homozygous,26
+CEL,Fermentation,Asia,26. Asian fermentation ,2,euploid,homozygous,26
+SACE_YCJ,Unknown,Asia,26. Asian fermentation ,2,aneu,homozygous,26
+SACE_YCK,Industrial,Asia,26. Asian fermentation ,2,euploid,homozygous,26
+SACE_YDK,Industrial,Asia,26. Asian fermentation ,2,euploid,homozygous,26

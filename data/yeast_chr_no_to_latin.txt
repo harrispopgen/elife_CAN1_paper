@@ -1,0 +1,16 @@
+1	chrI
+2	chrII
+3	chrIII
+4	chrIV
+9	chrIX
+5	chrV
+6	chrVI
+7	chrVII
+8	chrVIII
+10	chrX
+11	chrXI
+12	chrXII
+13	chrXIII
+14	chrXIV
+15	chrXV
+16	chrXVI
