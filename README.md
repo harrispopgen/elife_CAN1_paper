@@ -2,7 +2,7 @@ This repository contains script for [Jiang et al 2021. eLife](https://elifescien
 
 ## fig 1: analyzing mutation spectra from polymorphism data  
 
-- need to align outgroup (S.para) to S.cer first
+- need to align outgroup (S.para) to S.cer first.
 see directory: `Spar_preprocess/`
 
 - filter vcf files
