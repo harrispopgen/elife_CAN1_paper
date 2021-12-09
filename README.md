@@ -37,11 +37,11 @@ check the readme file in that directory. first call mutations from raw illumina 
 - script to plot fig 4
 `CAN1_mut_sequencing/script/fig4_from_10_21_final.R`
 
-## fig 5: C to A ratio enrichment
+## fig 5: C to A ratio enrichment: dipCBS1782/
 
-check the directory: `dipCBS1782/`
 refer to the README file in that directory. 
 
-## fig 6: mutation rate estimates from strains transformed with different OGG1 plasmids
+## fig 6: mutation rate estimates from strains transformed with different OGG1 plasmids: OGG1/
 
+figure 6:
 `OGG1/plot_mut_rate.R`
