@@ -1,0 +1,31 @@
+## combine gvcf called from CBS1782 with previous gvcf from 1011 strains 
+## use GATK combine gvcf 
+
+prefix=../call_var/CBS1782_raw_variants_bwa_mem
+
+GATK=/net/gs/vol3/software/modules-sw/GATK/3.7/Linux/RHEL6/x86_64/GenomeAnalysisTK.jar
+REF_Scer=/net/harris/vol1/project/yeast_1002/nobackup/S_cere_ref/S288C_R64-1-1_chr/sacCer3_all.fasta
+y1002_gcvf=/net/harris/vol1/data/Pengyao/nobackup/yeast_1002/1011Matrix.gvcf.gz
+
+## change the chr name in CBS1782 (to be consistent with that in 1011 strains)
+
+bcftools view -i 'FORMAT/DP>50' ${prefix}.gvcf.gz | grep -v "^chrM" \
+	 > ${prefix}_filterDP.gvcf
+
+
+python -m replace_chromosome_names  --cols 1  --comment-char "#"  -m ../../paper/data/yeast_chr_latin2y1002name.txt \
+		-o  ${prefix}_chr_y1002.gvcf \
+		${prefix}_filterDP.gvcf
+
+
+gzip ${prefix}_filterDP.gvcf
+gzip ${prefix}_chr_y1002.gvcf
+
+tabix ${prefix}_chr_y1002.gvcf.gz
+
+## combine gvcf
+java -Xmx4g -jar $GATK  CombineGVCFs \
+   -R $REF_Scer \
+   --variant $y1002_gcvf \
+   --variant ${prefix}_chr_y1002.vcf.gz \
+   -O ${prefix}_combine.g.vcf.gz

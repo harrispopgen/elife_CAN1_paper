@@ -1,0 +1,72 @@
+#$ -S /bin/bash
+
+#$ -wd /net/harris/vol1/project/mut_survey/species/Scer/dipCBS1782/script
+#$ -o /net/harris/vol1/project/mut_survey/species/Scer/dipCBS1782/script/job_out_err
+#$ -e /net/harris/vol1/project/mut_survey/species/Scer/dipCBS1782/script/job_out_err
+
+#$ -l mfree=15G
+
+## use GATK4
+## use bwa mem
+## for paired-end reads
+
+### this script will take in parameters of run ID and prefix (for output)
+## bash pipeline_call_var_pair.sh  run_ID  prefix
+
+
+REF_Scer=/net/harris/vol1/project/yeast_1002/nobackup/S_cere_ref/S288C_R64-1-1_chr/sacCer3_all.fasta
+Picard=/net/gs/vol3/software/modules-sw/picard/2.23.3/Linux/RHEL6/x86_64/picard.jar
+GATK=/net/gs/vol3/software/modules-sw/GATK/4.1.8.0/Linux/all/x86_64/gatk
+
+
+outdir=/net/harris/vol1/project/mut_survey/species/Scer/dipCBS1782/call_var
+suffix=bwa_mem
+
+###### need to change every time
+### input of the two fastq files
+
+fastq1=../raw_reads/CBS1782_S49_R1_001.fastq.gz
+fastq2=../raw_reads/CBS1782_S49_R2_001.fastq.gz
+
+## prefix
+prefix=CBS1782
+
+module load bwa/0.7.17
+module load samtools/1.10
+module load java/1.8.0
+module load tabix/0.2.6
+
+## bwa mem
+bwa mem $REF_Scer  $fastq1   $fastq2  > ${outdir}/${prefix}_${suffix}.sam
+
+## first select for reads that are uniquely mapped (/net/harris/vol1/project/yeast_1002/call_var_raw/TWN_CHN/keep_unique_reads.sh)
+## select for MQ>20
+
+samtools view -q 1 -F 4 -F 256   -h  ${outdir}/${prefix}_${suffix}.sam |\
+	 grep -v -E  -e '\bXA:Z:' -e '\bSA:Z:'  | samtools view -b -q 20    -  > \
+	 ${outdir}/${prefix}_${suffix}.bam
+
+## add read group
+java -Xmx4g -jar $Picard  AddOrReplaceReadGroups   -VALIDATION_STRINGENCY LENIENT \
+	-I ${outdir}/${prefix}_${suffix}.bam  -O ${outdir}/${prefix}_add_rg.bam \
+	-RGID ${prefix}  -RGLB lib1  -RGPL illumina   -RGPU unit1  -RGSM ${prefix}
+
+
+# mark duplicate and sort using GATK4 MarkDuplicatesSpark tool
+# https://gencore.bio.nyu.edu/variant-calling-pipeline-gatk4/
+$GATK MarkDuplicatesSpark \
+	--java-options "-Xmx4g" \
+        -I ${outdir}/${prefix}_add_rg.bam \
+        -M ${outdir}/${prefix}_marked_dup_metrics.txt \
+        -O ${outdir}/${prefix}_sorted_dedup.bam
+
+
+## need to call vcf from bam
+
+$GATK HaplotypeCaller \
+	--java-options "-Xmx15g" \
+        -R $REF_Scer \
+        -I ${outdir}/${prefix}_sorted_dedup.bam \
+        -O ${outdir}/${prefix}.vcf \
+
+

@@ -1,0 +1,17 @@
+#$ -S /bin/bash
+
+## set current working directory
+#$ -wd /net/harris/vol1/project/mut_survey/species/Scer/dipCBS1782/script
+
+
+
+#$ -o /net/harris/vol1/project/mut_survey/species/Scer/dipCBS1782/script/job_out_err
+#$ -e /net/harris/vol1/project/mut_survey/species/Scer/dipCBS1782/script/job_out_err
+
+#$ -l mfree=6G
+
+python record_mut_AC_main.py 2
+python record_mut_AC_main.py 4
+python record_mut_AC_main.py 6
+python record_mut_AC_main.py 8
+
