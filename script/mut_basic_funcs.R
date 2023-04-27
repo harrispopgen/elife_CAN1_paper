@@ -21,7 +21,7 @@ cat_rev_comp <- function (full_tb)
 
 
 ## revere complement function for triplet 
-## require to have 3 columns 1) ref 2) mut 3) five_prime base 4) three_prime base
+## full_tb require to have 3 columns 1) ref 2) mut (e.g. A_C) 3) five_prime base 4) three_prime base
 ## note: ref means the base before mutation, not necessarily ref base
 cat_rev_comp_triplet <- function (full_tb)
 {
@@ -181,7 +181,9 @@ six_mut_type_count_strains <- function (full_tb, count_col_name)
 ## fixed this function on 4/27/23
 #################
 ## count the number of mutations for all 96 types 
+## full_tb require to have 3 columns 1) ref (e.g. A) 2) mut (e.g. A_C) 3) five_prime base 4) three_prime base
 ## must have field: mut (single mutation type, A_C for example), neighbor (5' and 3' bases: for example AT: 5' A, 3' T)
+## count_col_name: the column name that shows how many counts per mutation observed 
 mut_type_triplet_count <- function(full_tb, count_col_name)
 {
 	full_tb  <- cat_rev_comp_triplet(full_tb)
