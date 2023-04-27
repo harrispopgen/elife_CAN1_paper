@@ -178,15 +178,15 @@ six_mut_type_count_strains <- function (full_tb, count_col_name)
 
 
 #################
-## note: this function is wrong!
+## fixed this function on 4/27/23
 #################
 ## count the number of mutations for all 96 types 
 ## must have field: mut (single mutation type, A_C for example), neighbor (5' and 3' bases: for example AT: 5' A, 3' T)
 mut_type_triplet_count <- function(full_tb, count_col_name)
 {
-	full_tb  <- cat_rev_comp(full_tb)
+	full_tb  <- cat_rev_comp_triplet(full_tb)
 		
-	full_tb["triplet"] <- paste(full_tb[,"mut"], full_tb[,"neighbor"],sep="_")
+	#full_tb["triplet"] <- paste(full_tb[,"mut"], full_tb[,"neighbor"],sep="_")
 	
 	mut_tb <- full_tb [,c(count_col_name, "triplet")]
 
